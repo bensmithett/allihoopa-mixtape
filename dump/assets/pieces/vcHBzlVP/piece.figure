@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE figure SYSTEM "http://propellerheads.se/figure.dtd">
+<song>
+  <partsettings>
+    <default id="3">
+      <patchname type="internal">Default</patchname>
+    </default>
+    <bass id="0">
+      <contextsettings>
+        <context id="0">
+          <rhythm>
+            <pulses>5</pulses>
+            <subpulses>16</subpulses>
+            <slots>16</slots>
+          </rhythm>
+          <tonality>
+            <octave>2</octave>
+            <lowerbound>0.01842949</lowerbound>
+            <octaves>3</octaves>
+            <scalesteps>7</scalesteps>
+            <atonalsteps>4</atonalsteps>
+            <upperbound>0.6727564</upperbound>
+          </tonality>
+        </context>
+      </contextsettings>
+      <patchname type="internal">Analoguesq</patchname>
+    </bass>
+    <lead id="1">
+      <contextsettings>
+        <context id="0">
+          <rhythm>
+            <pulses>7</pulses>
+            <subpulses>8</subpulses>
+            <slots>16</slots>
+          </rhythm>
+          <tonality>
+            <octave>4</octave>
+            <lowerbound>0.3</lowerbound>
+            <octaves>3</octaves>
+            <scalesteps>4</scalesteps>
+            <atonalsteps>7</atonalsteps>
+            <upperbound>0.99</upperbound>
+          </tonality>
+        </context>
+      </contextsettings>
+      <patchname type="internal">FM Nobel</patchname>
+    </lead>
+    <drum id="2">
+      <contextsettings>
+        <context id="3">
+          <rhythm>
+            <pulses>9</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="0">
+          <rhythm>
+            <pulses>4</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="1">
+          <rhythm>
+            <pulses>8</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="2">
+          <rhythm>
+            <pulses>13</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+      </contextsettings>
+      <patchname type="internal">Bern</patchname>
+    </drum>
+  </partsettings>
+  <arpeggiator>
+    <enabled>1</enabled>
+  </arpeggiator>
+  <time>
+    <shuffle>60</shuffle>
+    <tempo>104</tempo>
+  </time>
+  <engine>
+    <curves>
+      <data id="0">AMADAG4AAAAAAAAAAACAPwAAAAAAfWdDPhAAAAAAfD/4PiDAAwAA5QpCPhDAAwAAcLABPyCABwAATK5APhCABwAAPgQCPyBACwAAG/U9PhBAGgAAg5g8PhAALQAANuo7PhDAMAAA6js7PhBAZQAAcLABPyAAaQAAolwBPyDAmQAA0wgBPyBAsAAABbUAPyAAtAAAN2EAPyDA5AAA2qjPPhDA5AAARwInPyBA7AAAxOTKPhBA7AAAATYuPyCAJAEABTHJPhCAJAEActQwPyBAKAEALIjJPhCAMwEAUt/JPhAAOwEAeDbKPhCAQgEAno3KPhBARgEAxOTKPhDATQEA6jvLPhDAawEAEJPLPhAAwgEANurLPhDAxQEAXUHMPhCAyQEAqe/MPhBAzQEAz0bNPhAA0QEAG/XNPhDA1AEAjvrOPhCA2AEAxOTqPhCA2AEASZQ+PyCA5wEAXUHsPhCA5wEApUk8PyBA6wEAAf85PyAA/gEAz1I6PyDAAQIAbPo6PyCAFAIAOk47PyDALgIACKI7PyBANgIA1/U7PyAAOgIAg5jsPhAAOgIApUk8PyDAPQIAqe/sPhCAQQIAz0btPhBARQIAQUzuPhBARQIAbPo6PyAASQIAAADwPhAASQIAyK84PyDATAIATK7wPhDATAIAXrQ3PyBAVAIAmVzxPhAAWAIAv7PxPhAAWAIAj2A3PyCAbgIAXrQ3PyBAcgIALAg4PyBAgQIAyK84PyAAhQIAZVc5PyDAiAIAcgXxPhAAsgIAiMn1PhAAsgIAazEvPyDAtQIAriD2PhCAuQIAISb3PhBAvQIAkyv4PhAAwQIABTH5PhDAxAIA6jv7PhCAyAIA9Z39PhBAzAIAJlcAPxAA0AIAUt8BPxDA0wIAo74DPxCA1wIAZ6MGPxBA2wIAAAAIPxAA3wIAuYIIPxDA4gIATK4IPxDA4gIAz4kuPyCA5gIAATYuPyAA7gIAMuItPyDADwMAuYIIPxCAMQMAkysIPxBANQMAYnIFPxAAOQMA39kAPxDAPAMAcgXxPhCAQAMAno3aPhCAQAMA+ZIsPyBARAMAqe/MPhBARAMAXesrPyAASAMA8GzEPhAASAMAj5crPyDASwMAqe+8PhDASwMAJJwqPyBAUwMAQUy+PhBAUwMA8u8qPyAAVwMAcgXBPhAAVwMAXesrPyDAWgMAC2LCPhCAXgMAo77DPhBAYgMAPBvFPhAAZgMA+87GPhDAaQMAISbHPhCAbQMAR33HPhBAcQMAbdTHPhCAiwMAKz8sPyBAjwMA+ZIsPyAAwAMAAAAAAAAAwAMAZ6POPhAAwAMACNkvPyA=</data>
+      <data id="1">AMADAAAAAAA=</data>
+      <data id="2">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</data>
+      <data id="3">AMADAFkAAAAAAAAAAACAPwAAAAAAookmPxAAAAAAMVAWPyDAEgAAbrghPxDAEgAAjQUUPyCAFgAAmmgiPxDAIQAAxhgjPxCAJQAA8sgjPxBAKQAASiklPxAALQAAookmPxAALQAAKq0UPyDAMAAAzjknPxDAMAAAlagVPyCANAAA+uknPxCANAAAMVAWPyBAOAAAap8XPyAAPAAAOPMXPyDAPwAABkcYPyCAQwAA1ZoYPyBARwAAo+4YPyAASwAAcUIZPyDATgAAP5YZPyCAUgAAqpEaPyBAVgAARzkbPyAAWgAA4+AbPyCAYQAAgIgcPyBAZQAAzjknPxCAfwAAsTQcPyAAhwAA4+AbPyDAigAAFY0bPyCAjgAARzkbPyBAkgAAeOUaPyDAqAAAqpEaPyBAsAAA3D0aPyAAwwAAookmPxCAygAADuoZPyAA0gAAP5YZPyDA1QAAcUIZPyAA4QAAo+4YPyDA5AAA1ZoYPyCA6AAABkcYPyDA8wAAOPMXPyDAAgEAap8XPyAAHQEAnEsXPyCAJAEAzvcWPyBAcwEAMVAWPyDA8gEAbrghPxDA8gEAjQUUPyCA9gEAmmgiPxDAAQIAxhgjPxCABQIA8sgjPxBACQIASiklPxAADQIAookmPxAADQIAKq0UPyDAEAIAzjknPxDAEAIAlagVPyCAFAIA+uknPxCAFAIAMVAWPyBAGAIAap8XPyAAHAIAOPMXPyDAHwIABkcYPyCAIwIA1ZoYPyBAJwIAo+4YPyAAKwIAcUIZPyDALgIAP5YZPyCAMgIAqpEaPyBANgIARzkbPyAAOgIA4+AbPyCAQQIAgIgcPyBARQIAzjknPxCAXwIAsTQcPyAAZwIA4+AbPyDAagIAFY0bPyCAbgIARzkbPyBAcgIAeOUaPyDAiAIAqpEaPyBAkAIA3D0aPyAAowIAookmPxCAqgIADuoZPyAAsgIAP5YZPyDAtQIAcUIZPyAAwQIAo+4YPyDAxAIA1ZoYPyCAyAIABkcYPyDA0wIAOPMXPyDA4gIAap8XPyAA/QIAnEsXPyCABAMAzvcWPyBAUwMAMVAWPyA=</data>
+      <data id="4">AMADACYAAAAAAAAAAACAPwAAAAAA6qdfPxAAAAAAdveZPiCAFgAA2k+ZPiBAGgAABhZYPxBAGgAAr0abPiAAHgAAVVVVPxAAHgAAE5+aPiDAIQAAgQVWPxCAJQAArbVWPxBAKQAA2WVXPxAALQAABhZYPxCANAAAMsZYPxBAOAAAttZaPxAAPAAADjdcPxAASwAAOudcPxCAYQAAZpddPxBAdAAAkkdePxCAMwEAvvdePxBAcwEA6qdfPxAA4AEAdveZPiCA9gEA2k+ZPiBA+gEABhZYPxBA+gEAr0abPiAA/gEAVVVVPxAA/gEAE5+aPiDAAQIAgQVWPxCABQIArbVWPxBACQIA2WVXPxAADQIABhZYPxCAFAIAMsZYPxBAGAIAttZaPxAAHAIADjdcPxAAKwIAOudcPxCAQQIAZpddPxBAVAIAkkdePxCAEwMAvvdePxBAUwMA6qdfPxA=</data>
+    </curves>
+    <contexts>
+      <structure id="0">
+        <curveindex>0</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5212766</real>
+          <real id="2">0.6421483</real>
+        </defaults>
+        <context>0</context>
+        <part>0</part>
+      </structure>
+      <structure id="1">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.489627</real>
+          <real id="2">0.549793</real>
+        </defaults>
+        <context>4</context>
+        <part>0</part>
+      </structure>
+      <structure id="2">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.717842</real>
+          <real id="2">0.582988</real>
+        </defaults>
+        <context>5</context>
+        <part>0</part>
+      </structure>
+      <structure id="3">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>6</context>
+        <part>0</part>
+      </structure>
+      <structure id="4">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>0</part>
+      </structure>
+      <structure id="5">
+        <curveindex>2</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.06914894</real>
+          <real id="2">0.4605626</real>
+        </defaults>
+        <context>0</context>
+        <part>1</part>
+      </structure>
+      <structure id="6">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5904256</real>
+          <real id="2">0.5334527</real>
+        </defaults>
+        <context>4</context>
+        <part>1</part>
+      </structure>
+      <structure id="7">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.4441489</real>
+          <real id="2">0.5219437</real>
+        </defaults>
+        <context>5</context>
+        <part>1</part>
+      </structure>
+      <structure id="8">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.184647</real>
+          <real id="2">0.379668</real>
+        </defaults>
+        <context>6</context>
+        <part>1</part>
+      </structure>
+      <structure id="9">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>1</part>
+      </structure>
+      <structure id="10">
+        <curveindex>3</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.75</real>
+          <real id="2">0.6894629</real>
+        </defaults>
+        <context>0</context>
+        <part>2</part>
+      </structure>
+      <structure id="11">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5645161</real>
+          <real id="2">0.4030179</real>
+        </defaults>
+        <context>1</context>
+        <part>2</part>
+      </structure>
+      <structure id="12">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.7392473</real>
+          <real id="2">0.8697698</real>
+        </defaults>
+        <context>2</context>
+        <part>2</part>
+      </structure>
+      <structure id="13">
+        <curveindex>4</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.8655914</real>
+          <real id="2">0.3314067</real>
+        </defaults>
+        <context>3</context>
+        <part>2</part>
+      </structure>
+      <structure id="14">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>4</context>
+        <part>2</part>
+      </structure>
+      <structure id="15">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>5</context>
+        <part>2</part>
+      </structure>
+      <structure id="16">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>6</context>
+        <part>2</part>
+      </structure>
+      <structure id="17">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>2</part>
+      </structure>
+      <structure id="18">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.7796285</real>
+        </defaults>
+        <context>4</context>
+        <part>3</part>
+      </structure>
+      <structure id="19">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.8005853</real>
+        </defaults>
+        <context>5</context>
+        <part>3</part>
+      </structure>
+      <structure id="20">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.75</real>
+        </defaults>
+        <context>6</context>
+        <part>3</part>
+      </structure>
+      <structure id="21">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.6</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>7</context>
+        <part>3</part>
+      </structure>
+    </contexts>
+    <loop>
+      <start>0</start>
+      <end>245760</end>
+    </loop>
+  </engine>
+  <tonality>
+    <function>5</function>
+    <alteration>0</alteration>
+    <mode>0</mode>
+    <key>2</key>
+  </tonality>
+  <songuuid>3CF977EE-11DD-4F08-BD9B-2CCF9726F1F4</songuuid>
+  <version>4</version>
+  <timestamp>1480933726.645833</timestamp>
+  <songname>Kuala Lumpur ✈️ Yangon</songname>
+</song>

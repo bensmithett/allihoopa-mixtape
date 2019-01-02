@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE figure SYSTEM "http://propellerheads.se/figure.dtd">
+<song>
+  <partsettings>
+    <default id="3">
+      <patchname type="internal">Default</patchname>
+    </default>
+    <bass id="0">
+      <contextsettings>
+        <context id="0">
+          <rhythm>
+            <pulses>8</pulses>
+            <subpulses>7</subpulses>
+            <slots>16</slots>
+          </rhythm>
+          <tonality>
+            <octave>2</octave>
+            <lowerbound>0</lowerbound>
+            <octaves>3</octaves>
+            <scalesteps>4</scalesteps>
+            <atonalsteps>6</atonalsteps>
+            <upperbound>0.8466346</upperbound>
+          </tonality>
+        </context>
+      </contextsettings>
+      <patchname type="internal">Delay Bass</patchname>
+    </bass>
+    <lead id="1">
+      <contextsettings>
+        <context id="0">
+          <rhythm>
+            <pulses>10</pulses>
+            <subpulses>8</subpulses>
+            <slots>16</slots>
+          </rhythm>
+          <tonality>
+            <octave>4</octave>
+            <lowerbound>0.3</lowerbound>
+            <octaves>3</octaves>
+            <scalesteps>5</scalesteps>
+            <atonalsteps>6</atonalsteps>
+            <upperbound>0.99</upperbound>
+          </tonality>
+        </context>
+      </contextsettings>
+      <patchname type="internal">Kaseotone</patchname>
+    </lead>
+    <drum id="2">
+      <contextsettings>
+        <context id="3">
+          <rhythm>
+            <pulses>6</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="0">
+          <rhythm>
+            <pulses>4</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="1">
+          <rhythm>
+            <pulses>9</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="2">
+          <rhythm>
+            <pulses>4</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+      </contextsettings>
+      <patchname type="internal">TR-BOB</patchname>
+    </drum>
+  </partsettings>
+  <arpeggiator>
+    <enabled>1</enabled>
+  </arpeggiator>
+  <time>
+    <shuffle>57</shuffle>
+    <tempo>129</tempo>
+  </time>
+  <engine>
+    <curves>
+      <data id="0">AMADAFMAAAAAAAAAAACAPwAAAAAA6jsDPxAAAAAAazEvPyCAYQAAMbkCPxCAYQAAZI4tPyAAeAAAljotPyDAewAAyOYsPyCAfwAA+ZIsPyAAhwAAKz8sPyCAnQAAno0CPxDAtwAAXesrPyDAxgAAj5crPyBAzgAAC2ICPxCA2QAAeDYCPxAA4QAAwEMrPyDA5AAAYnIFPxCA6AAAyhUcPxCA6AAAs8YzPyBA7AAA6jsjPxBA7AAAAf85PyAA8AAAz0YtPxAA8AAAV9pBPyDA8wAAR30vPxDA8wAAyXhEPyAA/wAAjvouPxDAAgEAZ6MuPxDAAgEA+yREPyCABgEAkClDPyCAMwEA1HcuPxDAPgEAQUwuPxAASgEAriAuPxDATQEAG/UtPxCAUQEA9Z0tPxBAVQEAPBstPxBAVQEALNFDPyAAWQEAg5gsPxAAWQEA+yREPyDAXAEA39koPxDAXAEAl8xEPyCAYAEAno0iPxBAZAEA+84ePxAAaAEAtFEXPxAAaAEA84FCPyDAawEAVxATPxDAawEAs48/PyCAbwEAC2ISPxCAbwEASZQ+PyBAcwEAekA+PyAAdwEAg5gUPxDAegEAG/UVPxCAfgEA1HcWPxDAiQEAZ6MWPxDAiQEArOw9PyCAjQEA+84WPxCAjQEA3pg9PyBAkQEAjvoWPxBAkQEAEEU9PyAAlQEAISYXPxAAlQEAQfE8PyAApAEAR30XPxCAyQEAEEU9PyBAzQEA3pg9PyAA0QEAUt8RPxAA0QEAguM/PyDA1AEAqe8EPxDA1AEAAshFPyCA2AEAv7PxPhCA2AEA32FJPyBA3AEA39noPhBA3AEAewlKPyAA4AEAg5jcPhDA4wEA1HfWPhCA5wEAYnLVPhBA6wEA32FJPyAA7wEAdGZIPyAA/gEAQrpIPyDAAQIA32FJPyCAQQIAEA5JPyCAbgIAPBvVPhAAlAIAFsTUPhCA1wIA8GzUPhDAeAMAyhXUPhAAwAMAAAAAAAA=</data>
+      <data id="1">AMADAAAAAAA=</data>
+      <data id="2">AMADABYAAAAAAAAAAACAPwAAAAAAlVIKPxAAAAAAu/tMPyAADwAAPfIIPxAAHgAAaaIJPxAAHgAAiU9NPyDAIQAAlVIKPxDAIQAAWKNNPyCAJQAAwQILPxCAJQAA9EpOPyAASwAA5JEHPxDATgAAjDEGPxDATgAAu/tMPyAA4AEAuOEGPxCA9gEA5JEHPxCAXwIAEUIIPxCAmwIAPfIIPxCAEwMAaaIJPxBArQMAlVIKPxAAwAMAAAAAAAAAwAMAPfIIPxAAwAMAWKNNPyA=</data>
+      <data id="3">AMADAAcAAABAGgAAAACAPwBAGgAA0USTPhBAGgAApLckPyBAkgAAoH56PhBAkgAAea4mPyAApQAAq1omPyAAsQMAAAAAAAA=</data>
+    </curves>
+    <contexts>
+      <structure id="0">
+        <curveindex>0</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.8630319</real>
+          <real id="2">0.6741176</real>
+        </defaults>
+        <context>0</context>
+        <part>0</part>
+      </structure>
+      <structure id="1">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.560166</real>
+          <real id="2">0</real>
+        </defaults>
+        <context>4</context>
+        <part>0</part>
+      </structure>
+      <structure id="2">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.178423</real>
+          <real id="2">0</real>
+        </defaults>
+        <context>5</context>
+        <part>0</part>
+      </structure>
+      <structure id="3">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>6</context>
+        <part>0</part>
+      </structure>
+      <structure id="4">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>0</part>
+      </structure>
+      <structure id="5">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.7905585</real>
+          <real id="2">0.5181074</real>
+        </defaults>
+        <context>0</context>
+        <part>1</part>
+      </structure>
+      <structure id="6">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.3610372</real>
+          <real id="2">0.6753964</real>
+        </defaults>
+        <context>4</context>
+        <part>1</part>
+      </structure>
+      <structure id="7">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.6635638</real>
+          <real id="2">0.5065985</real>
+        </defaults>
+        <context>5</context>
+        <part>1</part>
+      </structure>
+      <structure id="8">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>6</context>
+        <part>1</part>
+      </structure>
+      <structure id="9">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>1</part>
+      </structure>
+      <structure id="10">
+        <curveindex>2</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.6263441</real>
+          <real id="2">0.7086445</real>
+        </defaults>
+        <context>0</context>
+        <part>2</part>
+      </structure>
+      <structure id="11">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5456989</real>
+          <real id="2">0.1830691</real>
+        </defaults>
+        <context>1</context>
+        <part>2</part>
+      </structure>
+      <structure id="12">
+        <curveindex>3</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.2930107</real>
+          <real id="2">0.610179</real>
+        </defaults>
+        <context>2</context>
+        <part>2</part>
+      </structure>
+      <structure id="13">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.2526882</real>
+          <real id="2">0.065422</real>
+        </defaults>
+        <context>3</context>
+        <part>2</part>
+      </structure>
+      <structure id="14">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>4</context>
+        <part>2</part>
+      </structure>
+      <structure id="15">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>5</context>
+        <part>2</part>
+      </structure>
+      <structure id="16">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>6</context>
+        <part>2</part>
+      </structure>
+      <structure id="17">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>2</part>
+      </structure>
+      <structure id="18">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.75</real>
+        </defaults>
+        <context>4</context>
+        <part>3</part>
+      </structure>
+      <structure id="19">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.75</real>
+        </defaults>
+        <context>5</context>
+        <part>3</part>
+      </structure>
+      <structure id="20">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.4963506</real>
+        </defaults>
+        <context>6</context>
+        <part>3</part>
+      </structure>
+      <structure id="21">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.88</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>7</context>
+        <part>3</part>
+      </structure>
+    </contexts>
+    <loop>
+      <start>0</start>
+      <end>245760</end>
+    </loop>
+  </engine>
+  <tonality>
+    <function>5</function>
+    <alteration>0</alteration>
+    <mode>0</mode>
+    <key>2</key>
+  </tonality>
+  <songuuid>0D23392A-DEA7-4820-858B-DB382E6C8B6A</songuuid>
+  <version>4</version>
+  <timestamp>1483886833.993705</timestamp>
+  <songname>Celekan Bawang 🛳 Singapore</songname>
+</song>

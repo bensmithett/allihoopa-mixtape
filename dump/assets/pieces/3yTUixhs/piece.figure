@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE figure SYSTEM "http://propellerheads.se/figure.dtd">
+<song>
+  <partsettings>
+    <default id="3">
+      <patchname type="internal">Default</patchname>
+    </default>
+    <bass id="0">
+      <contextsettings>
+        <context id="0">
+          <rhythm>
+            <pulses>7</pulses>
+            <subpulses>9</subpulses>
+            <slots>16</slots>
+          </rhythm>
+          <tonality>
+            <octave>2</octave>
+            <lowerbound>0</lowerbound>
+            <octaves>3</octaves>
+            <scalesteps>6</scalesteps>
+            <atonalsteps>5</atonalsteps>
+            <upperbound>0.7</upperbound>
+          </tonality>
+        </context>
+      </contextsettings>
+      <patchname type="internal">Inanimaterat</patchname>
+    </bass>
+    <lead id="1">
+      <contextsettings>
+        <context id="0">
+          <rhythm>
+            <pulses>11</pulses>
+            <subpulses>3</subpulses>
+            <slots>16</slots>
+          </rhythm>
+          <tonality>
+            <octave>4</octave>
+            <lowerbound>0.3040064</lowerbound>
+            <octaves>3</octaves>
+            <scalesteps>2</scalesteps>
+            <atonalsteps>1</atonalsteps>
+            <upperbound>0.9803846000000001</upperbound>
+          </tonality>
+        </context>
+      </contextsettings>
+      <patchname type="internal">Grotto</patchname>
+    </lead>
+    <drum id="2">
+      <contextsettings>
+        <context id="3">
+          <rhythm>
+            <pulses>5</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="0">
+          <rhythm>
+            <pulses>2</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="1">
+          <rhythm>
+            <pulses>4</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="2">
+          <rhythm>
+            <pulses>9</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+      </contextsettings>
+      <patchname type="internal">Sonny</patchname>
+    </drum>
+  </partsettings>
+  <arpeggiator>
+    <enabled>1</enabled>
+  </arpeggiator>
+  <time>
+    <shuffle>53</shuffle>
+    <tempo>107</tempo>
+  </time>
+  <engine>
+    <curves>
+      <data id="0">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</data>
+      <data id="1">AMADAAAAAAA=</data>
+      <data id="2">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</data>
+      <data id="3">AMADACkAAAAAAAAAAACAPwAAAAAAN9wwPxAAAAAAJvdNPyCAFgAAs8suPxCAFgAAUABMPyBAGgAA33svPxBAGgAAgqxLPyAAPAAAs8suPxCAQwAAhxsuPxAASwAAW2stPxDATgAAUABMPyCAcAAAH1RMPyBAgwAA7adMPyBAsAAAu/tMPyCAuwAAiU9NPyCAygAAWKNNPyCA9wAAJvdNPyCAFQEAhxsuPxAAHQEAs8suPxDALwEA33svPxCAYAEACywwPxAAswEAN9wwPxCA9gEAs8suPxCA9gEAUABMPyBA+gEA33svPxBA+gEAgqxLPyAAHAIAs8suPxCAIwIAhxsuPxAAKwIAW2stPxDALgIAUABMPyCAUAIAH1RMPyBAYwIA7adMPyBAkAIAu/tMPyCAmwIAiU9NPyCAqgIAWKNNPyCA1wIAJvdNPyCA9QIAhxsuPxAA/QIAs8suPxDADwMA33svPxCAQAMACywwPxAAkwMAN9wwPxA=</data>
+      <data id="4">AMADADIAAADAMAAAAACAPwDAMAAAiiZaPxDAMAAAJmTwPiBARwAAAAAAAABAsAAAAACAPwBAsAAAa611PxBAsAAATRMRPyCAuwAAAACAPxCAuwAAXFkUPyBAvwAAAAAAAAAADgEAAACAPwAADgEAL7tsPxAADgEAjQUUPyBANwEA+ulnPxBANwEA+AAVPyAAOwEAJ5poPxDAPgEAf/ppPxCAQgEAq6pqPxBAZAEA11prPxCAnAEAL7tsPxBAoAEAW2ttPxAApAEAs8tuPxDA1AEAAAAAAADA1AEAfO99PxDA1AEA1ZoYPyDAEAIAAACAPwDAEAIAiiZaPxDAEAIAJmTwPiBAJwIAAAAAAABAkAIAAACAPwBAkAIAa611PxBAkAIATRMRPyCAmwIAAACAPxCAmwIAXFkUPyBAnwIAAAAAAAAA7gIAAACAPwAA7gIAL7tsPxAA7gIAjQUUPyBAFwMA+ulnPxBAFwMA+AAVPyAAGwMAJ5poPxDAHgMAf/ppPxCAIgMAq6pqPxBARAMA11prPxCAfAMAL7tsPxBAgAMAW2ttPxAAhAMAs8tuPxDAtAMAAAAAAADAtAMAfO99PxDAtAMA1ZoYPyA=</data>
+      <data id="5">AMADAEIAAAAAAAAAAACAPwAAAAAA/fRTPhAAAAAAptbEPSDAAwAArbVWPhCABwAAGHXHPSBACwAAihPKPSAADwAA+7HMPSBAGgAAbVDPPSAALQAAPfJIPhAALQAA3ly6PSDAMAAAW2stPhDAMAAApEStPSCAUgAACywwPhAAWgAAu+wyPhDAXQAAFuOvPSBAZQAAa601PhAAaQAAHG44PhAAaQAAiIGyPSCAcAAAzC47PhBAdAAA+h+1PSDAmQAAbL63PSBAoQAA3ly6PSBAGQEAfO89PhDAPgEALLBAPhAASgEA3HBDPhCAYAEAjDFGPhAAaAEAPfJIPhAAaAEAUPu8PSBAcwEAwpm/PSBArwEA7bJLPhAAswEANDjCPSAAwgEAptbEPSDAxQEAnXNOPhBA3AEATTRRPhAA4AEA/fRTPhDA4wEArbVWPhCA5wEAGHXHPSBA6wEAihPKPSAA7wEA+7HMPSBA+gEAbVDPPSAADQIAPfJIPhAADQIA3ly6PSDAEAIAW2stPhDAEAIApEStPSCAMgIACywwPhAAOgIAu+wyPhDAPQIAFuOvPSBARQIAa601PhAASQIAHG44PhAASQIAiIGyPSCAUAIAzC47PhBAVAIA+h+1PSDAeQIAbL63PSBAgQIA3ly6PSBA+QIAfO89PhDAHgMALLBAPhAAKgMA3HBDPhCAQAMAjDFGPhAASAMAPfJIPhAASAMAUPu8PSBAUwMAwpm/PSBAjwMA7bJLPhAAkwMANDjCPSAAogMAptbEPSDApQMAnXNOPhBAvAMATTRRPhA=</data>
+      <data id="6">AMADABEAAAAAAAAAAACAPwAAAAAA2WUXPhAAAAAAQV7fPiDAAwAAOuccPhDAAwAA3gXgPiDAPwAA6qcfPhBAggEAOuccPhCAqwEAQV7fPiAAswEAiiYaPhBAvgEA2WUXPhDA4wEAOuccPhDA4wEA3gXgPiDAHwIA6qcfPhBAYgMAOuccPhCAiwMAQV7fPiAAkwMAiiYaPhBAngMA2WUXPhA=</data>
+    </curves>
+    <contexts>
+      <structure id="0">
+        <curveindex>0</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.7287234</real>
+          <real id="2">0.5193862</real>
+        </defaults>
+        <context>0</context>
+        <part>0</part>
+      </structure>
+      <structure id="1">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.435685</real>
+          <real id="2">0.134855</real>
+        </defaults>
+        <context>4</context>
+        <part>0</part>
+      </structure>
+      <structure id="2">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.307054</real>
+          <real id="2">0.240664</real>
+        </defaults>
+        <context>5</context>
+        <part>0</part>
+      </structure>
+      <structure id="3">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>6</context>
+        <part>0</part>
+      </structure>
+      <structure id="4">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>0</part>
+      </structure>
+      <structure id="5">
+        <curveindex>2</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.2832447</real>
+          <real id="2">0.7534015</real>
+        </defaults>
+        <context>0</context>
+        <part>1</part>
+      </structure>
+      <structure id="6">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.397727</real>
+          <real id="2">0.753788</real>
+        </defaults>
+        <context>4</context>
+        <part>1</part>
+      </structure>
+      <structure id="7">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.0151515</real>
+          <real id="2">0.337121</real>
+        </defaults>
+        <context>5</context>
+        <part>1</part>
+      </structure>
+      <structure id="8">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5857713</real>
+          <real id="2">0.6536573</real>
+        </defaults>
+        <context>6</context>
+        <part>1</part>
+      </structure>
+      <structure id="9">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>1</part>
+      </structure>
+      <structure id="10">
+        <curveindex>3</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.9623656</real>
+          <real id="2">0.7495652</real>
+        </defaults>
+        <context>0</context>
+        <part>2</part>
+      </structure>
+      <structure id="11">
+        <curveindex>4</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.8252688</real>
+          <real id="2">0.6932992</real>
+        </defaults>
+        <context>1</context>
+        <part>2</part>
+      </structure>
+      <structure id="12">
+        <curveindex>5</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.3575269</real>
+          <real id="2">0.2035294</real>
+        </defaults>
+        <context>2</context>
+        <part>2</part>
+      </structure>
+      <structure id="13">
+        <curveindex>6</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.5053197</real>
+        </defaults>
+        <context>3</context>
+        <part>2</part>
+      </structure>
+      <structure id="14">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>4</context>
+        <part>2</part>
+      </structure>
+      <structure id="15">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>5</context>
+        <part>2</part>
+      </structure>
+      <structure id="16">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>6</context>
+        <part>2</part>
+      </structure>
+      <structure id="17">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>2</part>
+      </structure>
+      <structure id="18">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.75</real>
+        </defaults>
+        <context>4</context>
+        <part>3</part>
+      </structure>
+      <structure id="19">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.75</real>
+        </defaults>
+        <context>5</context>
+        <part>3</part>
+      </structure>
+      <structure id="20">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.75</real>
+        </defaults>
+        <context>6</context>
+        <part>3</part>
+      </structure>
+      <structure id="21">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>7</context>
+        <part>3</part>
+      </structure>
+    </contexts>
+    <loop>
+      <start>0</start>
+      <end>245760</end>
+    </loop>
+  </engine>
+  <tonality>
+    <function>1</function>
+    <alteration>0</alteration>
+    <mode>0</mode>
+    <key>9</key>
+  </tonality>
+  <songuuid>8176C3CC-72E6-44CF-AB7E-E01817CC3ECF</songuuid>
+  <version>4</version>
+  <timestamp>1490623174.942739</timestamp>
+  <songname>Playa del Carmen 🚌 Chichen Itza</songname>
+</song>

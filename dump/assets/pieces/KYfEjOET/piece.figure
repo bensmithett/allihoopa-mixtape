@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE figure SYSTEM "http://propellerheads.se/figure.dtd">
+<song>
+  <partsettings>
+    <default id="3">
+      <patchname type="internal">Default</patchname>
+    </default>
+    <bass id="0">
+      <contextsettings>
+        <context id="0">
+          <rhythm>
+            <pulses>8</pulses>
+            <subpulses>10</subpulses>
+            <slots>16</slots>
+          </rhythm>
+          <tonality>
+            <octave>2</octave>
+            <lowerbound>0</lowerbound>
+            <octaves>3</octaves>
+            <scalesteps>3</scalesteps>
+            <atonalsteps>6</atonalsteps>
+            <upperbound>0.7</upperbound>
+          </tonality>
+        </context>
+      </contextsettings>
+      <patchname type="internal">Boompa</patchname>
+    </bass>
+    <lead id="1">
+      <contextsettings>
+        <context id="0">
+          <rhythm>
+            <pulses>9</pulses>
+            <subpulses>2</subpulses>
+            <slots>16</slots>
+          </rhythm>
+          <tonality>
+            <octave>4</octave>
+            <lowerbound>0.3</lowerbound>
+            <octaves>3</octaves>
+            <scalesteps>5</scalesteps>
+            <atonalsteps>8</atonalsteps>
+            <upperbound>0.99</upperbound>
+          </tonality>
+        </context>
+      </contextsettings>
+      <patchname type="internal">Gamle och Havet</patchname>
+    </lead>
+    <drum id="2">
+      <contextsettings>
+        <context id="3">
+          <rhythm>
+            <pulses>2</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="0">
+          <rhythm>
+            <pulses>2</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="1">
+          <rhythm>
+            <pulses>2</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+        <context id="2">
+          <rhythm>
+            <pulses>4</pulses>
+            <subpulses>0</subpulses>
+            <slots>16</slots>
+          </rhythm>
+        </context>
+      </contextsettings>
+      <patchname type="internal">Syntax Error</patchname>
+    </drum>
+  </partsettings>
+  <arpeggiator>
+    <enabled>1</enabled>
+  </arpeggiator>
+  <time>
+    <shuffle>58</shuffle>
+    <tempo>108</tempo>
+  </time>
+  <engine>
+    <curves>
+      <data id="0">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</data>
+      <data id="1">AMADAAAAAAA=</data>
+      <data id="2">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</data>
+      <data id="3">AMADAAMAAAAAAAAAAACAPwAAAAAArbXWPhAAAAAA3TzUPiA=</data>
+      <data id="4">AMADAAYAAACAFgAAAACAPwCAFgAAySOPPhCAFgAA5s1WPyCAyQEAAAAAAACA9gEAAACAPwCAqQMAAAAAAAA=</data>
+      <data id="5">AMADAAMAAAAAAAAAAACAPwAAAAAAf/opPxAAAAAAzS4LPyA=</data>
+      <data id="6">AMADAAYAAACANAAAAACAPwCANAAAAABAPxCANAAAsOlrPiAAwgEAAAAAAACAFAIAAACAPwAAogMAAAAAAAA=</data>
+    </curves>
+    <contexts>
+      <structure id="0">
+        <curveindex>0</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.3264628</real>
+          <real id="2">0.4989258</real>
+        </defaults>
+        <context>0</context>
+        <part>0</part>
+      </structure>
+      <structure id="1">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.168561</real>
+        </defaults>
+        <context>4</context>
+        <part>0</part>
+      </structure>
+      <structure id="2">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.272727</real>
+        </defaults>
+        <context>5</context>
+        <part>0</part>
+      </structure>
+      <structure id="3">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>6</context>
+        <part>0</part>
+      </structure>
+      <structure id="4">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>0</part>
+      </structure>
+      <structure id="5">
+        <curveindex>2</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.4985119</real>
+          <real id="2">0.4202128</real>
+        </defaults>
+        <context>0</context>
+        <part>1</part>
+      </structure>
+      <structure id="6">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5511968</real>
+          <real id="2">0.5053197</real>
+        </defaults>
+        <context>4</context>
+        <part>1</part>
+      </structure>
+      <structure id="7">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.4368351</real>
+          <real id="2">0.722711</real>
+        </defaults>
+        <context>5</context>
+        <part>1</part>
+      </structure>
+      <structure id="8">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.06848405</real>
+          <real id="2">0.1690026</real>
+        </defaults>
+        <context>6</context>
+        <part>1</part>
+      </structure>
+      <structure id="9">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>1</part>
+      </structure>
+      <structure id="10">
+        <curveindex>3</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.2930107</real>
+          <real id="2">0.3198977</real>
+        </defaults>
+        <context>0</context>
+        <part>2</part>
+      </structure>
+      <structure id="11">
+        <curveindex>4</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.2258064</real>
+          <real id="2">0.8723274</real>
+        </defaults>
+        <context>1</context>
+        <part>2</part>
+      </structure>
+      <structure id="12">
+        <curveindex>5</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.6075269</real>
+          <real id="2">0.537289</real>
+        </defaults>
+        <context>2</context>
+        <part>2</part>
+      </structure>
+      <structure id="13">
+        <curveindex>6</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.8306451</real>
+          <real id="2">0.2137596</real>
+        </defaults>
+        <context>3</context>
+        <part>2</part>
+      </structure>
+      <structure id="14">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.494016</real>
+          <real id="2">0.5065985</real>
+        </defaults>
+        <context>4</context>
+        <part>2</part>
+      </structure>
+      <structure id="15">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>5</context>
+        <part>2</part>
+      </structure>
+      <structure id="16">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>6</context>
+        <part>2</part>
+      </structure>
+      <structure id="17">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">-1</real>
+          <real id="1">-1</real>
+          <real id="2">-1</real>
+        </defaults>
+        <context>7</context>
+        <part>2</part>
+      </structure>
+      <structure id="18">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.75</real>
+        </defaults>
+        <context>4</context>
+        <part>3</part>
+      </structure>
+      <structure id="19">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.9790794</real>
+        </defaults>
+        <context>5</context>
+        <part>3</part>
+      </structure>
+      <structure id="20">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0</real>
+          <real id="2">0.5613889</real>
+        </defaults>
+        <context>6</context>
+        <part>3</part>
+      </structure>
+      <structure id="21">
+        <curveindex>1</curveindex>
+        <defaults>
+          <real id="0">0</real>
+          <real id="1">0.5</real>
+          <real id="2">0.5</real>
+        </defaults>
+        <context>7</context>
+        <part>3</part>
+      </structure>
+    </contexts>
+    <loop>
+      <start>0</start>
+      <end>245760</end>
+    </loop>
+  </engine>
+  <tonality>
+    <function>0</function>
+    <alteration>0</alteration>
+    <mode>0</mode>
+    <key>8</key>
+  </tonality>
+  <songuuid>CFB96A04-7A08-4E29-860F-65DFBE8C1B42</songuuid>
+  <version>4</version>
+  <timestamp>1487971128.286947</timestamp>
+  <songname>Stuck on the tarmac at AEP</songname>
+</song>

@@ -1,0 +1,917 @@
+alltihop={
+  "user": {
+    "about": "Listens, Plays and Produces",
+    "display_name": "",
+    "tagline": null,
+    "username": "bensmithett"
+  },
+  "pieces": [
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 25714286,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-22T22:58:16.395Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "84.000",
+      "title": "Melbourne ✈️ Denpasar",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 3,
+      "loop_us": [
+        11428571,
+        22857142
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "j7YDU08o",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 34576271,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-22T22:32:55.548Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "118.000",
+      "title": "Merida 🚌 Palenque",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 2,
+      "loop_us": [
+        16271186,
+        32542372
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "ctxL2mTg",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 20186916,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-22T22:27:53.978Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "107.000",
+      "title": "Playa del Carmen 🚌 Chichen Itza",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 11,
+      "loop_us": [
+        8971963,
+        17943926
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "3yTUixhs",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 9302326,
+      "listed": true,
+      "tonality_pitches": [
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false
+      ],
+      "likes": [],
+      "created_at": "2018-12-22T22:22:40.979Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "129.000",
+      "title": "El Calafate ✈️ Buenos Aires",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 5,
+      "loop_us": [
+        3720930,
+        7441860
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "N0PfvaNk",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 37431193,
+      "listed": true,
+      "tonality_pitches": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-22T22:19:30.543Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "109.000",
+      "title": "Buenos Aires ✈️ El Calafate",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 7,
+      "loop_us": [
+        17614679,
+        35229358
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "BrErd9gN",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 20000000,
+      "listed": true,
+      "tonality_pitches": [
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false
+      ],
+      "likes": [],
+      "created_at": "2018-12-22T22:15:34.502Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "108.000",
+      "title": "Stuck on the tarmac at AEP",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 8,
+      "loop_us": [
+        8888889,
+        17777778
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "KYfEjOET",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 21600000,
+      "listed": true,
+      "tonality_pitches": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-22T22:01:15.150Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "100.000",
+      "title": "Iguazu ✈️ Buenos Aires",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 0,
+      "loop_us": [
+        9600000,
+        19200000
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "ZYZJ8gK9",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 33442623,
+      "listed": true,
+      "tonality_pitches": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false
+      ],
+      "likes": [],
+      "created_at": "2018-12-22T21:57:48.908Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "122.000",
+      "title": "Buenos Aires ✈️ Salta",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 5,
+      "loop_us": [
+        15737705,
+        31475410
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "dhZHjuaD",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 20571429,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-22T21:52:34.800Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "105.000",
+      "title": "Colonia del Sacramento 🚌 Montevideo",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 9,
+      "loop_us": [
+        9142857,
+        18285714
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "luHxgF4s",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 20000000,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-22T21:48:41.080Z",
+      "description": "This is my favourite jam song. ",
+      "play_count": 0,
+      "tempo": "108.000",
+      "title": "Afternoon in Sofia",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 11,
+      "loop_us": [
+        8888889,
+        17777778
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "6rbyKEoe",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 19115044,
+      "listed": true,
+      "tonality_pitches": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-13T12:30:50.440Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "113.000",
+      "title": "Gold Coast ✈ Auckland",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 7,
+      "loop_us": [
+        8495575,
+        16991150
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "2q6s7sts",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 16744186,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-13T12:27:01.409Z",
+      "description": "",
+      "play_count": 1,
+      "tempo": "129.000",
+      "title": "Celekan Bawang 🛳 Singapore",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 11,
+      "loop_us": [
+        7441860,
+        14883720
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "dBrW0VeF",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 21600000,
+      "listed": true,
+      "tonality_pitches": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false
+      ],
+      "likes": [],
+      "created_at": "2018-12-13T12:14:10.754Z",
+      "description": "",
+      "play_count": 1,
+      "tempo": "100.000",
+      "title": "Krakatoa 🛳 Semarang",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 0,
+      "loop_us": [
+        9600000,
+        19200000
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "giyFyfIw",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 19459459,
+      "listed": true,
+      "tonality_pitches": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-13T12:07:08.981Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "111.000",
+      "title": "Yangon ✈️ Singapore",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 9,
+      "loop_us": [
+        8648649,
+        17297298
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "oDBdXDYt",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 20769231,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-13T11:59:27.801Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "104.000",
+      "title": "Kuala Lumpur ✈️ Yangon",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 11,
+      "loop_us": [
+        9230769,
+        18461538
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "vcHBzlVP",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 20571429,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-13T11:53:29.421Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "105.000",
+      "title": "Dubai ✈️ Kuala Lumpur",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 11,
+      "loop_us": [
+        9142857,
+        18285714
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "jB9f7Tll",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 11009174,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-13T11:49:47.631Z",
+      "description": "Tried to remake https://soundcloud.com/bensmithett/strutter by ear after I lost the source!",
+      "play_count": 0,
+      "tempo": "109.000",
+      "title": "Morning in Black River",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 6,
+      "loop_us": [
+        4403670,
+        8807340
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "S1hWT7mT",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 16744186,
+      "listed": true,
+      "tonality_pitches": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false
+      ],
+      "likes": [],
+      "created_at": "2018-12-13T11:35:39.916Z",
+      "description": "",
+      "play_count": 0,
+      "tempo": "129.000",
+      "title": "Abu Dhabi ✈️ Seychelles",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 7,
+      "loop_us": [
+        7441860,
+        14883720
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "IUU4WdGa",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 11111111,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-13T11:26:30.809Z",
+      "description": "",
+      "play_count": 1,
+      "tempo": "108.000",
+      "title": "Munich ✈️ Berlin",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 1,
+      "loop_us": [
+        4444444,
+        8888888
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "pzt6cPZ1",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 19115044,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true
+      ],
+      "likes": [],
+      "created_at": "2018-12-13T11:21:05.355Z",
+      "description": "",
+      "play_count": 1,
+      "tempo": "113.000",
+      "title": "Berlin ✈️ Sofia",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 1,
+      "loop_us": [
+        8495575,
+        16991150
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "yqiTk0RH",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 0,
+      "length_us": 34000000,
+      "listed": true,
+      "tonality_pitches": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false
+      ],
+      "likes": [],
+      "created_at": "2017-10-22T08:33:58.230Z",
+      "description": "",
+      "play_count": 1,
+      "tempo": "120.000",
+      "title": "Melbourne ✈️ Launceston",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 7,
+      "loop_us": [
+        16000000,
+        32000000
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "ewz0H9kn",
+      "comments": []
+    },
+    {
+      "inspired": 0,
+      "like_count": 1,
+      "length_us": 11111000,
+      "listed": true,
+      "tonality_pitches": [
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true
+      ],
+      "likes": [
+        {
+          "created_at": "2016-10-09T11:24:21.905Z",
+          "username": "keep4realtrapinchana"
+        }
+      ],
+      "created_at": "2016-10-09T09:19:21.593Z",
+      "description": "#FirstFigureDrop #figure",
+      "play_count": 9,
+      "tempo": "108.000",
+      "title": "Barcelona ✈️ Munich",
+      "attachment": "piece.figure",
+      "comment_count": 0,
+      "collaborators": [],
+      "tonality_root": 1,
+      "loop_us": [
+        4444444,
+        8888888
+      ],
+      "app": "Figure",
+      "time_signature": [
+        4,
+        4
+      ],
+      "short_id": "rMtb4nbz",
+      "comments": []
+    }
+  ]
+}
